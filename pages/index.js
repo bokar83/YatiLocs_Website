@@ -36,7 +36,7 @@ export default function Home() {
         className="hover:scale-110 transition"
       >
         <img
-          src="/icons/whatsappGreen.svg"
+          src="/icons/WhatsApp.png"
           alt="WhatsApp"
           className="w-20 h-20"
         />
