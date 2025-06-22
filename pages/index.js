@@ -28,7 +28,7 @@ export default function Home() {
       <Tips />
       <Footer />
 
-      <div className="fixed bottom-6 left-6 z-50 bg-backgroundDark rounded-full p-2 shadow-lg">
+      <div className="fixed bottom-6 left-6 z-50 bg-ctaTeal rounded-full p-2 shadow-lg">
         <a
           href="https://wa.me/971558487022"
           target="_blank"
