@@ -1,7 +1,7 @@
 // components/Footer.js
 export default function Footer() {
     return (
-        <footer className="bg-[#B85C38] text-white pt-0 pb-4 sm:pb-8 md:pb-12 px-6">
+        <footer className="bg-backgroundDark text-white pt-0 pb-4 sm:pb-8 md:pb-12 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-lg font-semibold mb-4">Connect With Yati Locs</h3>
           <a
