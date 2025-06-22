@@ -15,18 +15,22 @@ export default function Footer() {
   
           <div className="flex justify-center items-center gap-6 mb-12 text-center mx-auto max-w-xs">
             <a
-              href="#"
+              href="https://instagram.com/yatifirecutz"
               aria-label="Instagram"
               className="text-white hover:text-ctaGold transition"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <svg fill="currentColor" viewBox="0 0 24 24" className="w-10 h-10">
                 <path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 2 .3 2.5.5.5.2.9.5 1.3 1 .4.4.8.8 1 1.3.2.5.4 1.3.5 2.5.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 2-.5 2.5-.2.5-.5.9-1 1.3-.4.4-.8.8-1.3 1-.5.2-1.3.4-2.5.5-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-2-.3-2.5-.5-.5-.2-.9-.5-1.3-1-.4-.4-.8-.8-1-1.3-.2-.5-.4-1.3-.5-2.5C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-2 .5-2.5.2-.5.5-.9 1-1.3.4-.4.8-.8 1.3-1 .5-.2 1.3-.4 2.5-.5C8.4 2.2 8.8 2.2 12 2.2z" />
               </svg>
             </a>
             <a
-              href="#"
+              href="https://tiktok.com/@yatifirecutz"
               aria-label="TikTok"
               className="text-white hover:text-ctaGold transition"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <svg fill="currentColor" viewBox="0 0 24 24" className="w-10 h-10">
                 <path d="M12.3 2c2 .2 3.8.3 5.2 1.3v2.2c-1.5-.7-3-1.1-5-1.2v8.5c0 2.7-1.3 4.1-3.4 4.1-2 0-3.5-1.4-3.5-3.4 0-2.1 1.4-3.6 3.5-3.6.3 0 .7 0 1 .1v-2.6c-.3 0-.7-.1-1-.1-3.4 0-5.9 2.4-5.9 6.2 0 3.7 2.5 6.1 5.7 6.1 3.3 0 5.8-2.3 5.8-6.2V2h-2.4z" />
