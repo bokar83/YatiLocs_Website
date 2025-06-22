@@ -70,7 +70,7 @@ export default function Footer() {
           </div>
         </div>
   
-        <div className="bg-backgroundDark text-white w-full py-4">
+        <div className="bg-[#B85C38] text-white w-full py-4">
           <p className="text-center text-sm m-0">&copy; {new Date().getFullYear()} Yati Locs. All rights reserved.</p>
         </div>
       </footer>
