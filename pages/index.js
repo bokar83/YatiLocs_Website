@@ -28,19 +28,21 @@ export default function Home() {
       <Tips />
       <Footer />
 
-      <a
-        href="https://wa.me/971558487022"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="WhatsApp"
-        className="hover:scale-110 transition"
-      >
-        <img
-          src="/icons/WhatsApp.png"
-          alt="WhatsApp"
-          className="w-20 h-20"
-        />
-      </a>
+      <div className="fixed bottom-6 left-6 z-50 bg-backgroundDark rounded-full p-2 shadow-lg">
+        <a
+          href="https://wa.me/971558487022"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="WhatsApp"
+          className="hover:scale-110 transition block"
+        >
+          <img
+            src="/icons/WhatsApp.png"
+            alt="WhatsApp"
+            className="w-16 h-16"
+          />
+        </a>
+      </div>
     </>
   );
 }
