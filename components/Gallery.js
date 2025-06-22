@@ -11,12 +11,31 @@ import { useEffect, useState } from 'react';
 
 export default function Gallery() {
   const galleryItems = [
-    '/barber_placeholder1.png',
-    '/barber_placeholder2.png',
-    '/barber_placeholder3.png',
-    '/barber_placeholder4.png',
-    '/barber_placeholder5.png',
-    '/video-placeholder.mp4'
+    '/Yati_01.jpg',
+    '/Yati_02.jpg',
+    '/Yati_03.jpg',
+    '/Yati_04.jpg',
+    '/Yati_05.jpg',
+    '/Yati_06.jpg',
+    '/Yati_07.jpg',
+    '/Yati_08.jpg',
+    '/Yati_09.jpg',
+    '/Yati_10.jpg',
+    '/Yati_11.jpg',
+    '/Yati_12.jpg',
+    '/Yati_13.jpg',
+    '/Yati_14.jpg',
+    '/Yati_15.jpg',
+    '/Yati_16.jpg',
+    '/Yati_17.jpg',
+    '/Yati_18.jpg',
+    '/YatiVideo_01.mp4',
+    '/YatiVideo_02.mp4',
+    '/YatiVideo_03.mp4',
+    '/YatiVideo_04.mp4',
+    '/YatiVideo_05.mp4',
+    '/YatiVideo_06.mp4',
+    '/YatiVideo_07.mp4',
   ];
 
   const [activeSection, setActiveSection] = useState('hero');
