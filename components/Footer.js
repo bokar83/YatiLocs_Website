@@ -1,7 +1,7 @@
 // components/Footer.js
 export default function Footer() {
     return (
-        <footer className="bg-backgroundDark text-white pt-0 pb-4 sm:pb-8 md:pb-12 px-6">
+        <footer className="bg-[#B85C38] text-white pt-0 pb-4 sm:pb-8 md:pb-12 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-lg font-semibold mb-4">Connect With Yati Locs</h3>
           <a
@@ -70,7 +70,9 @@ export default function Footer() {
           </div>
         </div>
   
-        <p className="text-center text-sm mt-16 text-white/70">&copy; {new Date().getFullYear()} Yati Locs. All rights reserved.</p>
+        <div className="bg-backgroundDark text-white w-full mt-16 py-4">
+          <p className="text-center text-sm m-0">&copy; {new Date().getFullYear()} Yati Locs. All rights reserved.</p>
+        </div>
       </footer>
     );
   }
