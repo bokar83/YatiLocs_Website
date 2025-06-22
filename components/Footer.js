@@ -21,9 +21,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <svg fill="currentColor" viewBox="0 0 24 24" className="w-10 h-10">
-                <path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 2 .3 2.5.5.5.2.9.5 1.3 1 .4.4.8.8 1 1.3.2.5.4 1.3.5 2.5.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 2-.5 2.5-.2.5-.5.9-1 1.3-.4.4-.8.8-1.3 1-.5.2-1.3.4-2.5.5-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-2-.3-2.5-.5-.5-.2-.9-.5-1.3-1-.4-.4-.8-.8-1-1.3-.2-.5-.4-1.3-.5-2.5C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-2 .5-2.5.2-.5.5-.9 1-1.3.4-.4.8-.8 1.3-1 .5-.2 1.3-.4 2.5-.5C8.4 2.2 8.8 2.2 12 2.2z" />
-              </svg>
+              <img src="/icons/Instagram.png" alt="Instagram" className="w-10 h-10" />
             </a>
             <a
               href="https://tiktok.com/@yatifirecutz"
@@ -32,9 +30,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <svg fill="currentColor" viewBox="0 0 24 24" className="w-10 h-10">
-                <path d="M12.3 2c2 .2 3.8.3 5.2 1.3v2.2c-1.5-.7-3-1.1-5-1.2v8.5c0 2.7-1.3 4.1-3.4 4.1-2 0-3.5-1.4-3.5-3.4 0-2.1 1.4-3.6 3.5-3.6.3 0 .7 0 1 .1v-2.6c-.3 0-.7-.1-1-.1-3.4 0-5.9 2.4-5.9 6.2 0 3.7 2.5 6.1 5.7 6.1 3.3 0 5.8-2.3 5.8-6.2V2h-2.4z" />
-              </svg>
+              <img src="/icons/TikTok.png" alt="TikTok" className="w-10 h-10" />
             </a>
             <a
               href="https://wa.me/971558487022"
@@ -43,9 +39,7 @@ export default function Footer() {
               aria-label="WhatsApp"
               className="text-white hover:text-ctaGold transition"
             >
-              <svg fill="currentColor" viewBox="0 0 24 24" className="w-10 h-10">
-                <path d="M17.5 14.4c-.3-.2-1.9-.9-2.2-1-.3-.1-.5-.2-.7.2-.2.3-.9 1.1-1.1 1.3-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.1-.2.1-.3.2-.5s0-.4 0-.6c0-.2-.7-1.7-1-2.3-.3-.5-.5-.5-.7-.5h-.6c-.2 0-.5.1-.7.3s-.9.9-.9 2.2.9 2.5 1 2.7c.1.2 1.8 3.4 4.4 4.7 2.6 1.3 2.6.9 3.1.8.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2z" />
-              </svg>
+              <img src="/icons/WhatsApp.png" alt="WhatsApp" className="w-10 h-10" />
             </a>
           </div>
   
