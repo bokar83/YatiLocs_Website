@@ -13,7 +13,7 @@ export default function Tips() {
     },
     {
       title: 'Clean, But Don’t Strip',
-      text: 'Use sulfate-free shampoos that cleanse without drying. Avoid over-washing — 2-3 weeks is often ideal.'
+      text: 'Use sulfate-free shampoos that cleanse without drying. Avoid over-washing — 1-2 times per week is often ideal.'
     },
     {
       title: 'Hands Off!',
