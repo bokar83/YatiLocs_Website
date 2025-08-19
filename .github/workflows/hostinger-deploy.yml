@@ -32,7 +32,7 @@ jobs:
           server: ${{ secrets.HOSTINGER_FTP_SERVER }}
           username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
           password: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
-          local-dir: ./out
+          local-dir: ./out/
           server-dir: /public_html
           dangerous-clean-slate: true
 
